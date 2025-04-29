@@ -2,7 +2,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pong0882)](https://solved.ac/pong0882/)
 
 ![mazandi-dark](http://mazandi.herokuapp.com/api?handle=pong0882&theme=dark)
-<img src="http://mazandi.herokuapp.com/api?handle=pong0882&theme=dark"/>
 <!--
 **Pong0882/Pong0882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
