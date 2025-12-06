@@ -18,7 +18,7 @@
 
 ---
 
-## **Languages**
+## 🧑‍💻 **Languages**
 
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -27,7 +27,7 @@
 </div>
 
 
-## **Backend**
+## 🧱 **Backend**
 
 <div>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </div>
 
-## **Database & Search**
+## 🗄 **Database & Search**
 
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -50,7 +50,7 @@
 </div>
 
 
-## **Messaging & Streaming**
+## 📡 **Messaging & Streaming**
 
 <div>
   <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
@@ -58,7 +58,7 @@
 </div>
 
 
-## **DevOps & Infrastructure**
+## ⚙️ **DevOps & Infrastructure**
 
 <div>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -80,7 +80,7 @@
   <img src="https://img.shields.io/badge/Swap Memory Tuning-000000?style=for-the-badge&logo=databricks&logoColor=white"/>
 </div>
 
-## **Tools**
+## 🧰 **Tools**
 
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -99,7 +99,7 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 
 
