@@ -19,8 +19,9 @@
   > — Warren Buffett
 
   잠을 자면서도 돈이 일하게 만드는 것. 그 목표를 직접 서비스로 만들고 있습니다.
-  **[pong-to-rich](https://pongtrader.pro)** — AI 기반 주식 자동매매 플랫폼을 혼자 처음부터 설계하고 운영하면서, 백엔드 전 영역을
+  **[pongtrager](https://pongtrader.pro)** — AI 기반 주식 자동매매 플랫폼을 혼자 처음부터 설계하고 운영하면서, 백엔드 전 영역을
   실전에서 체감하는 것이 지금 저의 가장 큰 도전입니다.
+  [📁 Backend Repository](https://github.com/Pong0882/Backend-A-to-Z/tree/main/pong-to-rich)
 
   앞으로도 확장 가능한 시스템을 고민하고, 운영까지 이해하는 백엔드 개발자로 성장하겠습니다.
 
