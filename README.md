@@ -1,8 +1,8 @@
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FPong0882?color=blue&label=hits&size=medium&base_count=100)](https://myhits.vercel.app)
 # Hi there 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pong0882)](https://solved.ac/pong0882/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=HelloPong)](https://solved.ac/HelloPong/)
 
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FPong0882?color=purple&label=hits&size=medium&base_count=1)](https://myhits.vercel.app)
 ---
 # 👋 About Me
 
