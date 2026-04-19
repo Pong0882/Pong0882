@@ -1,147 +1,108 @@
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FPong0882?color=blue&label=hits&size=medium&base_count=8080)](https://myhits.vercel.app)
+
 # Hi there 👋
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pong0882)](https://solved.ac/pong0882/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=HelloPong)](https://solved.ac/HelloPong/)
 
 ---
+
 # 👋 About Me
 
-저는 백엔드 개발과 인프라 설계에 강점을 가진 개발자입니다. 단순히 기능을 구현하는 것을 넘어, 서비스의 안정성·확장성·운영 효율성까지 책임지는 개발자를 목표로 성장해 왔습니다.
+백엔드 개발자입니다.
 
-프로젝트를 진행하며 항상 “왜 이 기술이 필요한가?”, “어떤 구조가 가장 안정적인가?”를 먼저 고민하고, 문제 해결 중심으로 기술을 선택합니다. 그 과정에서 Docker 기반 환경 표준화, Spring Cloud 기반 MSA 설계, Nginx + SSL 보안 강화, Kafka·Spark 기반 실시간 로그 파이프라인, Prometheus·Grafana 모니터링, Jenkins CI/CD, Swap Memory 기반 리소스 관리 등 단순 개발을 넘어 운영까지 아우르는 경험을 쌓았습니다.
+주르륵(첫 Spring 프로젝트)에서 시작해 SSAIREN(SSAFY 자율 1위)까지, 매 프로젝트마다 모르는 영역을 하나씩 추가하며 성장해왔습니다. 기능 구현에 그치지 않고 배포·모니터링·장애 대응까지 직접 경험하면서, 개발부터 운영까지 전체 흐름을 이해하는 개발자가 되고 싶다는 방향이 생겼습니다.
 
-복잡한 JOIN 성능 문제를 수치 기반으로 분석해 해결했으며, 데이터 규모에 따라 MySQL FULLTEXT와 Elasticsearch의 장단점을 비교하고, 상황에 맞는 기술 선택이 얼마나 중요한지 체감했습니다. 또한 Gateway 기반 인증 아키텍처 구축을 통해 보안과 운영 효율성을 동시에 강화했고, 장애 상황을 겪으며 데이터 기반 관측성의 필요성을 깊이 이해하게 되었습니다.
+문제를 만나면 표면적인 해결보다 원인을 끝까지 파고드는 편입니다. TripLog에서 N+1 구조를 직접 찾아내고 10가지 방식을 실험하며 응답시간을 420ms → 24ms로 개선했고, SSAIREN에서는 Vosk 최적화에 VAD·KenLM·HCLG까지 시도한 뒤 한계를 인식하고 Faster-Whisper로 전환했습니다. Grafana 모니터링으로 서버 장애를 사전에 감지하고, MSA 구조에서 병목 서비스만 스케일아웃하는 경험도 했습니다.
 
-새로운 기술과 아키텍처를 두려워하지 않고 빠르게 학습하여 실제 서비스 문제를 해결하는 것이 저의 가장 큰 강점입니다. 앞으로도 확장 가능한 시스템을 고민하고, 운영까지 이해하는 백엔드 개발자로 성장하겠습니다.
+지금은 취업 준비 중에도 멈추지 않기 위해 AI 기반 주식 자동매매 플랫폼을 혼자 처음부터 만들고 있습니다.
 
-그리고 지금, 한 가지 목표를 세웠습니다.
+> _"If you don't find a way to make money while you sleep, you will work until you die."_  — Warren Buffett
 
-  > *"If you don't find a way to make money while you sleep, you will work until you die."*
-  > — Warren Buffett
+**[pong-to-rich](https://pongtrader.pro)** — 새 기술을 접할 때마다 이론 → 적용 → 성능 측정 → 최적화 전 과정을 기록하며 운영 중입니다.  
+[📁 Repository](https://github.com/Pong0882/Backend-A-to-Z/tree/main/pong-to-rich)
 
-  잠을 자면서도 돈이 일하게 만드는 것. 그 목표를 직접 서비스로 만들고 있습니다.
-  **[pongtrager](https://pongtrader.pro)** — AI 기반 주식 자동매매 플랫폼을 혼자 처음부터 설계하고 운영하면서, 백엔드 전 영역을
-  실전에서 체감하는 것이 지금 저의 가장 큰 도전입니다.
-  [📁 Backend Repository](https://github.com/Pong0882/Backend-A-to-Z/tree/main/pong-to-rich)
-
-  앞으로도 확장 가능한 시스템을 고민하고, 운영까지 이해하는 백엔드 개발자로 성장하겠습니다.
+- 🏫 삼성 SSAFY 13기 Java 전공트랙 수료 (1,620시간 / Certificate 우수 등급)
+- 🏆 SSAFY 자율 프로젝트 1위 · 공통 프로젝트 3위
+- 📜 정보처리기사 · SQLD
 
 ---
+
 # 🛠 Tech Stack
 
----
+## 🧑‍💻 Languages
 
-## 🧑‍💻 **Languages**
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
-<div>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
-</div>
+## 🧱 Backend
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
-## 🧱 **Backend**
+## 🗄 Database & Search
 
-<div>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Data JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-</div>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 
-## 🗄 **Database & Search**
+## 📡 Messaging
 
-<div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Query Optimization-000000?style=for-the-badge&logo=databricks&logoColor=white"/>
-</div>
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
+## ⚙️ DevOps & Infrastructure
 
-## 📡 **Messaging & Streaming**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white)
 
-<div>
-  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spark Streaming-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-</div>
+## 🧰 Tools
 
-
-## ⚙️ **DevOps & Infrastructure**
-
-<div>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blue/Green Deployment-000000?style=for-the-badge&logo=databricks&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SSL (Let's Encrypt)-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/cAdvisor-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swap Memory Tuning-000000?style=for-the-badge&logo=databricks&logoColor=white"/>
-</div>
-
-## 🧰 **Tools**
-
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ERD Cloud-3A76F0?style=for-the-badge&logo=databricks&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 
 ---
 
 # 🚀 Featured Projects
 
+## 1. 🚑 SSAIREN — AI 기반 구급활동 자동화 플랫폼 `SSAFY 자율 1위`
 
+응급 현장 대화를 Faster-Whisper로 실시간 전사하고, Qwen2.5 LoRA 모델이 CC/Hx/증상/바이탈을 JSON으로 추출해 구급활동일지 초안을 자동 생성합니다.  
+구급대원 인터뷰를 통해 환자 민감정보 외부 전송 불가를 확인하고 Google STT를 포기, 완전 온프레미스 AI 구조를 채택했습니다.  
+GPU 없는 EC2 환경에서 GGUF Int4 양자화 + Cloudflare Tunnel로 개인 노트북을 AI 추론 서버로 구성해 현장 사용 가능한 속도를 확보했습니다.
 
-## 1. 🚑 SSAIREN — AI 기반 응급 구조 보조 플랫폼
-응급 현장 대화를 **STT로 실시간 전사·구조화**하고, 구급대원의 기록 부담을 줄여주는 응급 구조 보조 플랫폼입니다.  
-**Vosk + VAD 기반 온디바이스 STT**, **Faster-Whisper 기반 STT 서버**를 직접 구축하고 파라미터·모델 크기·지연 시간·정확도를 비교·튜닝했습니다.  
-Spring Boot 백엔드와 Docker 기반 STT 컨테이너를 연동해, **상황에 따라 STT 엔진을 선택적으로 사용할 수 있는 구조**를 설계했습니다.
+## 2. 📚 Assistudy — AI 기반 순공부시간 기록 플랫폼 `SSAFY 공통 3위`
 
+MediaPipe 온디바이스 AI로 눈 깜빡임·시선·고개·하품을 실시간 분석해 딴짓 시간을 자동 제외하고 순공부시간만 기록합니다.  
+팀장 겸 PM으로 6인 팀 전 직군 일정을 총괄했고, 모놀리식 → MSA 전환(4개 서비스)을 마일스톤으로 설정해 팀원 반발을 설득하며 완성했습니다.  
+Kafka 비동기 로그 파이프라인으로 로그 유실 문제를 해결했고, Grafana 모니터링으로 RAM 초과 장애를 사전에 감지해 RAM Swap으로 대응했습니다.
 
-## 2. 🎥 Assistudy — 실시간 집중도 분석 AI 서비스
-공부/수업 중 WebRTC로 수집한 영상·음성을 기반으로, **온디바이스 경량 AI + 서버 고정밀 분석**을 결합해 집중도를 실시간 점수화하는 서비스입니다.  
-Kafka로 로그를 스트리밍하고, **Spark Streaming**으로 실시간 집계·분석 파이프라인을 구축했습니다.  
-Spring Cloud 기반 MSA, JWT Gateway 인증, Docker·Prometheus·Grafana로 **관측 가능한 학습 분석 플랫폼 인프라**를 구성했습니다.
+## 3. 🌍 TripLog — 카카오맵 기반 여행 일정 계획 플랫폼
 
+카카오맵으로 관광지를 탐색하고 드래그앤드롭으로 일정을 구성하면 Tmap API가 이동 거리·시간을 자동 계산합니다.  
+4중 JOIN + N+1 구조를 직접 발견하고 ResultMap → 역정규화 → Elasticsearch + nori 형태소 분석기까지 10가지 방식을 단계적으로 실험했습니다.  
+검색 응답시간 420ms → 24ms (94% 개선), 처리량 225 RPS → 849 RPS (3.7배 향상).
 
-## 3. 🌍 TripLog — 여행 일정 관리 & 검색 엔진 고도화
-여행 일정·관광지 데이터를 기반으로 일정을 관리하고, 장소를 검색할 수 있는 서비스입니다.  
-복잡한 조건 검색에서 발생한 **4중 JOIN 병목을 MyBatis 튜닝 + 역정규화 + FULLTEXT + Elasticsearch 도입**으로 개선해, 검색 속도를 **3.2초 → 280ms** 수준으로 단축했습니다.  
-Spring Boot + MyBatis 기반 API, Docker Compose·Nginx·CI/CD로 **실제 배포를 고려한 백엔드·인프라 구조**를 설계했습니다.
+## 4. 🌊 MyOcean — OCEAN 기반 AI 페르소나 자아 탐색 플랫폼
 
+Big Five 성격 이론 기반으로 게임·일기·AI 대화를 통해 사용자의 내면을 5가지 페르소나로 시각화합니다.  
+Jenkins 블루그린 무중단 배포 파이프라인(헬스체크 → Nginx 트래픽 전환 → 자동 롤백)을 구현하고, AWS EC2 2대를 애플리케이션/데이터 인프라로 분리했습니다.  
+Kafka Sink Connector로 코드 없이 토픽 데이터를 MinIO 4노드 분산 스토리지에 자동 적재하는 파이프라인을 구축했습니다.
 
-## 4. 🌊 MyOcean — 페르소나 기반 자아 탐색 플랫폼
-Big Five(OCEAN) 성격 이론을 바탕으로, 게임·일기·AI 대화를 통해 사용자의 성격을 페르소나 세포로 시각화하는 자아 탐색 플랫폼입니다.  
-백엔드는 Spring Boot, 프론트는 Next.js 기반으로 구성하고, 사용자 행동·일기·AI 대화 이벤트를 **Kafka로 스트리밍 후 Kafka Connect를 통해 4노드 MinIO 분산 스토리지**에 적재하는 구조를 설계했습니다.  
-두 대의 EC2 서버를 나누어(앱/AI 서버, 데이터 인프라 서버) Docker Compose 스택을 구성하고, **Jenkins + Nginx 기반 Blue/Green 배포 파이프라인**으로 무중단 배포·롤백이 가능하도록 인프라를 구축했습니다.
+## 5. 🍹 주르륵 — 보유 재료 기반 칵테일 큐레이션 서비스
 
-
-## 5. 🍳 주르륵 — 재료 기반 레시피 추천 서비스
-냉장고 속 재료를 기반으로 만들 수 있는 레시피를 추천해 주는 **풀스택 웹 서비스**입니다.  
-백엔드는 Spring Boot, 프론트엔드는 React로 구현하고, 재료 선택 → 레시피 추천 → 상세 보기까지의 흐름을 전부 직접 설계·구현했습니다.  
-기본적인 회원·레시피 관리 기능부터 UI/UX까지 한 번에 경험하며, **서비스 전체 흐름을 혼자 설계·구현한 프로젝트**입니다.
-
+"내가 가진 재료로 뭘 만들 수 있을까?"라는 질문에서 출발한 1인 개발 프로젝트입니다.  
+GROUP BY + HAVING COUNT로 보유 재료 완전 매칭 칵테일을 필터링하고, LEFT JOIN으로 재료 1개 부족 칵테일도 함께 표시합니다.  
+Spring MVC / JPA를 처음 적용하며 계층 분리와 다대다 관계 설계를 직접 체득한 첫 번째 Spring 프로젝트입니다.
