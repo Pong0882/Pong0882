@@ -7,21 +7,6 @@
 
 ---
 
-# 👋 About Me
-
-백엔드 개발자입니다.
-
-주르륵(첫 Spring 프로젝트)에서 시작해 SSAIREN(SSAFY 자율 1위)까지, 매 프로젝트마다 모르는 영역을 하나씩 추가하며 성장해왔습니다. 기능 구현에 그치지 않고 배포·모니터링·장애 대응까지 직접 경험하면서, 개발부터 운영까지 전체 흐름을 이해하는 개발자가 되고 싶다는 방향이 생겼습니다.
-
-문제를 만나면 표면적인 해결보다 원인을 끝까지 파고드는 편입니다. TripLog에서 N+1 구조를 직접 찾아내고 10가지 방식을 실험하며 응답시간을 420ms → 24ms로 개선했고, SSAIREN에서는 Vosk 최적화에 VAD·KenLM·HCLG까지 시도한 뒤 한계를 인식하고 Faster-Whisper로 전환했습니다. Grafana 모니터링으로 서버 장애를 사전에 감지하고, MSA 구조에서 병목 서비스만 스케일아웃하는 경험도 했습니다.
-
-지금 AI 기반 주식 자동매매 플랫폼을 혼자 처음부터 만들고 있습니다.
-
-> _"If you don't find a way to make money while you sleep, you will work until you die."_  — Warren Buffett
-
-**[pong-to-rich](https://pongtrader.pro)** — 새 기술을 접할 때마다 이론 → 적용 → 성능 측정 → 최적화 전 과정을 기록하며 운영 중입니다.  
-[📁 Repository](https://github.com/Pong0882/Backend-A-to-Z/tree/main/pong-to-rich)
-
 - 🏫 삼성 SSAFY 13기 Java 전공트랙 수료 (1,620시간)
 - 🏆 SSAFY 자율 프로젝트 1위 · 공통 프로젝트 3위
 - 📜 정보처리기사 · SQLD
